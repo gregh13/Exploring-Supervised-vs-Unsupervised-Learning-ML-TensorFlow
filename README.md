@@ -1,1 +1,2 @@
-# Supervised-vs-Unsupervised-Learning-ML-TensorFlow
+### Exploring Supervised vs. Unsupervised Learning ML with TensorFlow
+#### Looking at how results for a supervised neural network model performs on binary anomaly detection for API security compare to an unsupervised multivariate guassian anomaly detection model. Furthermore, explore the difference in large vs small training datasets for the unsupervised model. The focus of this project is to explore and apply the concepts and models that I learned in Dr. Andrew Ng's Machine Learning Specialization.
